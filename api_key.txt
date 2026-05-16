@@ -1,1 +1,1 @@
-retrieve your own api_key to use at https://openweathermap.org/ and paste it in this txt
+retrieve your own api_key to use at https://openweathermap.org/ and replace this text with it here.
